@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bariscelik123
+- 👋 Hi, I’m Barış Çelik.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning computer science at Bilkent University.
 - 📫 How to reach me via email b.celik@ug.bilkent.edu.tr
